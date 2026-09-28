@@ -1,0 +1,16 @@
+{
+  "task": "Stain normalization",
+  "comparison": "C++ + OpenMP vs NumPy",
+  "tile": "008069b542b0439ed69b194674051964_x10240_y2048.jpg",
+  "tile_shape": [
+    256,
+    256,
+    3
+  ],
+  "runs": 30,
+  "numpy_mean_seconds": 0.00941362073331978,
+  "numpy_std_seconds": 0.0021483812026359722,
+  "cpp_openmp_mean_seconds": 0.0055209578333309155,
+  "cpp_openmp_std_seconds": 0.0018206094921789588,
+  "speedup": 1.7050702101885706
+}

@@ -1,0 +1,2 @@
+slide_id,ground_truth_isup,predicted_isup,isup_0_probability,isup_1_probability,isup_2_probability,isup_3_probability,isup_4_probability,isup_5_probability,mean_tumor_probability,max_tumor_probability,mean_area_probability_ge_0.10,mean_area_probability_ge_0.50,max_attention,attention_sum
+008069b542b0439ed69b194674051964,4,4,0.05144243314862251,0.08766523748636246,0.16279809176921844,0.18831391632556915,0.26681411266326904,0.2429661750793457,0.09631214290857315,0.997637152671814,0.12338817119598389,0.0966382697224617,0.1944742351770401,0.9999998211860657
